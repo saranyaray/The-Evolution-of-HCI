@@ -1,6 +1,3 @@
-Great! Based on that context, here's a **refined and informative README** that includes a description of your project — a website showcasing the **timeline of Human-Computer Interaction (HCI) evolution** — while keeping it professional, developer-friendly, and free of any references to Lovable:
-
----
 
 # 🖥️ Human-Computer Interaction Timeline
 
